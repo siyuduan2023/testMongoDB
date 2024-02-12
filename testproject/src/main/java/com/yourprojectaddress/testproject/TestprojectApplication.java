@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestprojectApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(TestprojectApplication.class, args);
 	}
 
